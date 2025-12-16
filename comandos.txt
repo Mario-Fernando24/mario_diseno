@@ -1,0 +1,16 @@
+crear proyecto
+flutter create --template=package mariodiseno
+
+resultado 
+mario_diseno/
+ ├─ lib/
+ │   └─ mario_diseno.dart
+ ├─ pubspec.yaml
+ ├─ test/
+ └─ README.md
+
+
+ https://github.com/weincoder
+
+ publicar un package en flutter 
+ flutter pub publish --dry-run
